@@ -15,9 +15,6 @@ const config: DocsThemeConfig = {
     dark: 20,
     light: 20 
   },
-
-  footer: false,
-
   sidebar: {
     toggleButton: true,
   }
