@@ -14,6 +14,11 @@ const config: DocsThemeConfig = {
   primaryHue:{ 
     dark: 20,
     light: 20 
+  },
+  footer: {
+    text: <span>
+     {new Date().getFullYear()} © Melbourne SOUP
+    </span>,
   }
 }
 export default config
