@@ -1,0 +1,42 @@
+# Event Hosting Guide
+
+The following guide assumes a host and co-host to assist in the event delivery. We've roughly assigned speakers for different sections however we encourage you to play and alter this formula
+
+## Event script and runsheet:
+
+|-|-|
+|**Host:**|Welcome|
+||Acknowledgement of Country|
+||Introduction to co-host|
+
+|**Co-Host:**|Speech on purpose of the event <br> Why we are gathered and what to expect from the night|
+||Back to Host|
+
+|**Host:**|Housekeeping|
+||Encourage social media posting|
+||**Contributors**: Host invites a one minute intro from people/ organisations that you have partnered with (including venue)|
+||**Icebreaker**: Turn to someone you don’t know, shake their hand and intro, then chat about: why you’re here / what you love about where you live|
+||On to the presentations. These are up to 3 minutes, no technology, then chance for up to 3 questions from you in the audience|
+||Remind audience to be as supportive as possible, then will vote using your token. Announce prize pot for the evening|
+||`[Presenter & Project names]` Introduce each presenter and project name prior to they go on.|
+||Thanks to our presenters, round of applause for them all|
+||Time for a break, for soup and to vote. Opportunity to mingle some more, chat to the pitchers and contributors if you’re interested in what they’re up to|
+||[Mention name tags with number of soup events attended as conversation starter if relevant]|
+||We’ll be back in `[length of break]`|
+
+|**Break**||
+
+|**Host**|Has everyone voted?<br> We’re away to count them|
+||Introduce musician|
+
+|**Live Music Interlude**||
+
+|**Host**|Thank you [musician] for that performance. You can check them out `[musicians social media channels]`|
+||Announce result of vote, have winner speak briefly|
+||Congrats to all the presenters|
+||Any SOUP announcements (e.g. next event)|
+||Thank you’s|
+||Hand back to co-host to wrap-up|
+
+|**Co-Host**|End of night speech, remind about purpose again, cover off what happened throughout the evening, thanks for attending and hope to see you again soon.|
+

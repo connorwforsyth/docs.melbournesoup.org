@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "docs.MelbourneSOUP",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "docs.MelbourneSOUP",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

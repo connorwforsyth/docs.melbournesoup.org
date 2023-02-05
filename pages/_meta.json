@@ -1,15 +1,6 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+  "index": "Information",
+  "what-is-soup": "What is SOUP?",
+  "how-to-soup-in-7": "How to SOUP in 7 steps"
+  
 }
