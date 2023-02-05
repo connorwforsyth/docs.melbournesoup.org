@@ -14,9 +14,6 @@ const config: DocsThemeConfig = {
   primaryHue:{ 
     dark: 20,
     light: 20 
-  },
-  sidebar: {
-    toggleButton: true,
   }
 }
 export default config
